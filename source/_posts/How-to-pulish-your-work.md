@@ -2,7 +2,6 @@
 title: How to pulish your work? | Springer Nature
 date: 2019-11-03 16:32:04
 tags: 
-- Research
 - Scientific Writing
 categories: 
 - Research
