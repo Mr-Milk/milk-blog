@@ -8,7 +8,7 @@ categories:
 ---
 ![](https://www.mediabistro.com/wp-content/uploads/2016/11/springernature-1.jpeg)
 
-I heard a lecture given by someone who works for nature publish group who talked about some very useful tips on writing and publishing.
+I heard a lecture given by someone who works for nature publish group. She talked about some very useful tips on writing and publishing, so I want to write it down.
 
 Always remember, your first reader is your boss, then the editor and the reviewer.
 
